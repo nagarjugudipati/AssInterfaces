@@ -1,0 +1,8 @@
+D:\Mphasis\Assested Projects\ConAppInterfaces\ConAppInterfaces\bin\Debug\ConAppInterfaces.exe.config
+D:\Mphasis\Assested Projects\ConAppInterfaces\ConAppInterfaces\bin\Debug\ConAppInterfaces.exe
+D:\Mphasis\Assested Projects\ConAppInterfaces\ConAppInterfaces\bin\Debug\ConAppInterfaces.pdb
+D:\Mphasis\Assested Projects\ConAppInterfaces\ConAppInterfaces\obj\Debug\ConAppInterfaces.csproj.AssemblyReference.cache
+D:\Mphasis\Assested Projects\ConAppInterfaces\ConAppInterfaces\obj\Debug\ConAppInterfaces.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Assested Projects\ConAppInterfaces\ConAppInterfaces\obj\Debug\ConAppInterfaces.csproj.CoreCompileInputs.cache
+D:\Mphasis\Assested Projects\ConAppInterfaces\ConAppInterfaces\obj\Debug\ConAppInterfaces.exe
+D:\Mphasis\Assested Projects\ConAppInterfaces\ConAppInterfaces\obj\Debug\ConAppInterfaces.pdb
